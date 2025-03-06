@@ -1,0 +1,14 @@
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.AssemblyInfoInputs.cache
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.AssemblyInfo.cs
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.csproj.CoreCompileInputs.cache
+C:\Users\Shahla\source\repos\ThirdLessonP01\bin\Debug\net8.0\ThirdLessonP01.exe
+C:\Users\Shahla\source\repos\ThirdLessonP01\bin\Debug\net8.0\ThirdLessonP01.deps.json
+C:\Users\Shahla\source\repos\ThirdLessonP01\bin\Debug\net8.0\ThirdLessonP01.runtimeconfig.json
+C:\Users\Shahla\source\repos\ThirdLessonP01\bin\Debug\net8.0\ThirdLessonP01.dll
+C:\Users\Shahla\source\repos\ThirdLessonP01\bin\Debug\net8.0\ThirdLessonP01.pdb
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.dll
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\refint\ThirdLessonP01.dll
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.pdb
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ThirdLessonP01.genruntimeconfig.cache
+C:\Users\Shahla\source\repos\ThirdLessonP01\obj\Debug\net8.0\ref\ThirdLessonP01.dll
